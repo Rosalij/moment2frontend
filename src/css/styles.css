@@ -25,7 +25,10 @@ p {
     color: #2C363F;
 }
 
-
+td {
+    text-align: center;
+    padding: 0.5em;
+}
 
 h1 {
     padding-top: 2em;
