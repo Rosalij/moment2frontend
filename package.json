@@ -1,0 +1,17 @@
+{
+  "name": "moment2",
+  "version": "1.0.0",
+  "source": "src/index.html",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "parcel": "^2.13.3",
+    "sharp": "^0.33.5"
+  },
+  "browserlist": "> 0.5%, lst 2 versions, not dead"
+  }
